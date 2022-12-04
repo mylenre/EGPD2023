@@ -2718,6 +2718,17 @@ input, select, textarea {
 				margin-left: 1em;
 			}
 
+	#banner2 {
+		background-image: url("images/Glasgow_Briggs.jpg");
+		background-position: center bottom;
+		background-size: cover;
+		height: 28em;
+		text-align: center;
+		position: relative;
+        background-attachment: fixed;
+	}
+
+
 
 /* Wrapper */
 
