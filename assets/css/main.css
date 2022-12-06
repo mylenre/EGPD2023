@@ -2535,7 +2535,7 @@ input, select, textarea {
 		background-color: #fff;
 		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
 		background-position: top left,					top left,					top left;
-		background-size: 100% 6em,					100% 6em,					auto;
+		background-size: 100% 5em,					100% 5em,					auto;
 		background-repeat: no-repeat,					no-repeat,					repeat;
 	}
 
@@ -2545,7 +2545,7 @@ input, select, textarea {
 		}
 
 			#header h1 a {
-				font-size: 2em;
+				font-size: 2.5em;
 				letter-spacing: -0.025em;
 				border: 0;
 			}
