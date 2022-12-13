@@ -2531,7 +2531,7 @@ input, select, textarea {
 
 	#header {
 		text-align: center;
-		padding: 3em 0 0 0;
+		padding: 2em 0 0 0;
 		background-color: #fff;
 		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
 		background-position: top left,					top left,					top left;
@@ -2553,10 +2553,10 @@ input, select, textarea {
 	#nav {
 		cursor: default;
 		background-color: #fff;
-		background-image: -moz-linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg01.png");
-		background-image: -webkit-linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg01.png");
-		background-image: -ms-linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg01.png");
+		background-image: -moz-linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg02.png");
+		background-image: -webkit-linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg02.png");
+		background-image: -ms-linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg02.png");
+		background-image: linear-gradient(top, rgba(255,255,255, 0.9), rgba(255,255,255, 0.9)), url("images/bg02.png");
 		padding: 0;
 	}
 
@@ -2566,7 +2566,7 @@ input, select, textarea {
 			width: 100%;
 			height: 0.75em;
 			background-color: #37c0fb;
-			background-image: url("images/bg01.png");
+			background-image: url("images/bg02.png");
 		}
 
 		#nav > ul {
@@ -2613,7 +2613,7 @@ input, select, textarea {
 						left: 50%;
 						margin-left: -0.375em;
 						background-color: #37c0fb;
-						background-image: url("images/bg01.png");
+						background-image: url("images/bg02.png");
 					}
 
 					#nav > ul > li.current a {
