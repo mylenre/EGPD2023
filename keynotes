@@ -1,0 +1,179 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    <head>
+        <title>EGPD 2023</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="shortcut icon" href="images/EGPD2023Logo_White.ico"/>
+    </head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+                    
+                    <!-- Logo -->
+                        <h1><a href="index.html" id="logo">European Geothermal PhD Days <em> 4 - 6
+                            April 2023</em></a></h1>
+                    <!-- Nav -->
+                        <nav id="nav">
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="attend.html">Abstract Submission</a></li>
+                                <li class="current"><a href="schedule.html">Schedule</a></li>
+				     <ul>
+                                        <li><a href="schedule.html">Conference Programme</a></li>
+                                        <li><a href="keynotes.html">Keynote Speakers</a></li>
+                                    </ul>
+                                <li><a href="oursponsors.html">Sponsors</a>
+                                    <ul>
+                                        <li><a href="oursponsors.html">Our sponsors</a></li>
+                                        <li><a href="sponsor.html">Sponsor opportunities</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="travelandaccomodation.html">Travel & Accomodation</a></li>
+                            </ul>
+                        </nav>
+
+				</div>
+			
+			<!-- Banner -->
+				<section id="banner2"> 
+					
+				</section>
+			
+
+			<!-- Main -->
+            <section class="wrapper style1">
+                <div class="container">
+                    <div class="row gtr-200">
+                        <div class="col-8 col-12-narrower">
+                            <div id="content">
+
+                                <!-- Content -->
+                                <article>
+                                    <header>
+                                        <h2>EGPD 2023 Keynotes</h2>
+
+		             		 
+                  
+                                    </header>
+
+                                  
+				  
+				
+                                    <p>The Keynote speakers and talk titles will appear here soon. </p>
+					
+					  <header>    
+                                        <h2>Site visit</h2>
+                                     <h3> The UKGEOS Glasgow Observatory</h3>
+					</header>       
+					   <!--  <span class="image featured"><img src="images/UKGEOS.jpg" alt="" /></span>-->
+					    
+					
+					    
+					<figure class="video_container">
+						<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vkvlG3ZaohI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen alt=""></iframe></span>
+				         </figure>
+					    
+						    
+					 <p>More information on the Glasgow GeoEnergy Observatory can be found <a href=" https://www.ukgeos.ac.uk/glasgow-observatory ">here</a> as well as the <a href=" https://www.thinkgeoenergy.com/glasgow-uk-observatory-offers-opportunities-for-groundbreaking-geothermal-research/?utm_source=ThinkGeoEnergy+List&utm_campaign=276268dc38-TGE_Newsletter_RSS1&utm_medium=email&utm_term=0_657e42f767-276268dc38-415275717">latest news</a>. </p>  
+					    
+					    
+                                    
+					
+					
+				<!-- <center>
+              			 	  <iframe src="https://www.google.com/maps/place/The+Bothy/@55.8389634,-4.2009396,15.75z/data=!4m5!3m4!1s0x488841aec5b53c47:0x76be200270159195!8m2!3d55.8386756!4d-4.2019493" 
+					  width="80%"
+                 			  height="450"
+                  			  style="border:0"
+                  			  loading="lazy"
+                  			  allowfullscreen>
+              				  </iframe>
+              		      </center> -->
+					
+                                </article>
+
+                            </div>
+                        </div>
+                        
+			    
+			    
+			    <div class="col-4 col-12-narrower">
+                            <div id="sidebar">
+                                
+                                <h2>Venues </h2> 
+				    <span class="image featured"><img src="images/Glasgow_ARC.jpg" alt="" /></span>
+                                <p> Advanced Research Centre, University of Glagow, Glasgow G12 8QQ. </p>
+				    <span class="image featured"><img src="images/Strathclyde_Building.jpg" alt="" /></span>
+				<p> University of Strathclyde, Learning & Teaching Building, Glasgow G1 1XN. </p>
+				    <span class="image featured"><img src="images/CityChambers.jpg" alt="" /></span>
+				 <p>Civic Hospitality event at the Glasgow City Chambers </p
+				
+                                <!-- Sidebar -->
+                                
+                            </div>
+                        </div>
+			    
+			 
+                    </div>
+                </div>
+			</section>
+			
+			
+			
+			
+		<section class="wrapper style2">
+                    <div class="container">
+                        <header class="major">
+                            <img src="images/egpd.png" alt="egpd-logo" width="300">
+                            <h4>     </h4>
+                        </header>
+                    </div>
+                </section>
+			
+		   
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							
+						</div>
+					</div>
+			           					
+                    <!-- Icons -->
+                        <ul class="icons">
+                            <li><a href="https://twitter.com/egpd_2023" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+ 			    <li><a href="https://www.instagram.com/egpd_2023/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                       </ul>
+
+					<!-- Copyright -->
+						<div class="copyright">
+							<ul class="menu">
+                                <li>&copy; EGPD 2023. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
